@@ -14,7 +14,7 @@
 
 ---
 
-### 🔱 The Forge of Agents
+### Agents
 I build autonomous entities that bridge the gap between human ideation and device execution. My work focuses on **high-level agentic orchestration**, **behavioral analysis**, and **intelligent automation**.
 
 </div>
@@ -130,7 +130,7 @@ I build autonomous entities that bridge the gap between human ideation and devic
 
 ---
 
-## 📂 Project Registry
+## Project
 A curated list of my active developments and experiments.
 
 <table width="100%">
