@@ -88,7 +88,7 @@ Tools I actually use, roughly by frequency:
 
 ## Wins
 
-- 🏆 2nd place — [hackathon name/organizer to confirm] hackathon, IIT Dharwad
+- 🏆 2nd place — https://www.nasiko.com/ hackathon, IIT Dharwad
 
 ---
 
