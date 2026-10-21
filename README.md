@@ -72,11 +72,10 @@ Everything below is either vibe-coded, a tool I built in passing, or still in an
 
 Tools I actually use, roughly by frequency:
 
-- **Daily:** Kotlin, Python, Cursor, Windsurf, OpenCode CLI, Claude
+- **Daily:** VS code, Windsurf
 - **Frameworks:** Koog, LangChain, LangGraph
-- **Regularly (internship):** Postman
 - **Occasionally:** Docker, MySQL (only when needed)
-- **Core languages:** Java, TypeScript/JS, HTML/CSS, React
+- **Core languages:** C++, TypeScript/JS, HTML/CSS, React
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,python,java,ts,js,html,css,react" />
